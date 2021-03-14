@@ -12,7 +12,7 @@ namespace ConsoleUI
         static void Main(string[] args)
         {
             //Data Transformation Object
-            //ProductTest();
+            ProductTest();
             //CategoryTest();
             Console.ReadKey();
         }
